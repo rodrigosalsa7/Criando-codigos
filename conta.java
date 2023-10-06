@@ -20,4 +20,7 @@ public class conta {
 		destino.depositar(valor);
 	}
 
+	private void depositar(double valor) {
+	}
+
 }
